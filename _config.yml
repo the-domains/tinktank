@@ -1,0 +1,28 @@
+name: tinktank
+favicon: null
+layout_spectrum: 0.35525504080578685
+typography_spectrum: 0.1935163934249431
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1184366021770984
+  lightness: 0.22826230037026107
+  saturation: 0.49233208573423326
+  rhythmicContrast: 0.6794677276629955
+purpose: []
